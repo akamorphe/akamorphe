@@ -11,8 +11,8 @@
   </style>
 
   <!-- Name & Subtitle -->
-  <text x="0" y="30" class="name">Frontend Developer</text>
-  <text x="0" y="55" class="title">Vue.js · TypeScript · CSS Architecture</text>
+  <text x="0" y="30" class="name">Morphe</text>
+  <text x="0" y="55" class="title">Frontend Developer</text>
 
   <!-- Bio -->
   <text x="0" y="95" class="bio">Building accessible, high-performance web interfaces. Focused on SPAs,</text>
