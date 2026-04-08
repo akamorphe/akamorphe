@@ -6,7 +6,7 @@
     .bio { font: 300 15px 'Sora', sans-serif; fill: #8b949e; }
     .label { font: 400 11px 'DM Mono', monospace; fill: #484f58; letter-spacing: 1.5px; text-transform: uppercase; }
     .tag-text { font: 400 12px 'DM Mono', monospace; fill: #8b949e; }
-    .tag-rect { fill: #161b22; stroke: #30363d; stroke-width: 0.5; rx: 4; }
+    .tag-rect { stroke: #30363d; stroke-width: 0.4; rx: 4; }
     .divider { stroke: #30363d; stroke-width: 0.5; }
   </style>
 
