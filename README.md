@@ -1,4 +1,4 @@
-# Morphe · Full Stack Developer
+# Full Stack Developer
 
 Crafting accessible, high-performance web applications—from fluid user interfaces to scalable, low-overhead backend services.
 
